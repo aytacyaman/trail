@@ -1,2 +1,2 @@
-# trail
-this repo is for trail
+# trial
+this repo is for trial
